@@ -1,1 +1,1 @@
-![hector_salamanca](https://user-images.githubusercontent.com/62806448/195200936-1c13becd-e49d-43b5-9605-ec3afb0f4f74.gif)
+![LAoZy-6aLDI](https://user-images.githubusercontent.com/62806448/212225647-88668b10-1a01-44f5-b7be-9b7f73f54817.jpeg)
