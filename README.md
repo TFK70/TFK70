@@ -1,1 +1,1 @@
-![Ponedelnik_Mayk_Ermntraunt](https://user-images.githubusercontent.com/62806448/232580077-63c279a2-3f2e-4aa9-bb1c-f2f667e52935.gif)
+![Pyatnitsa-mike_ermantraut](https://user-images.githubusercontent.com/62806448/232584169-c2f2fcf3-b505-4e45-9d7f-eb299016b44b.gif)
