@@ -1,0 +1,18 @@
+name: Sunday
+on:
+  schedule:
+    - cron:  '0 0 * * SUN'
+  workflow_dispatch:
+
+jobs:
+  update_readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Update README.md
+        run: echo "![Voskresenye_Predznamenovanie_Stradaniy — копия](https://user-images.githubusercontent.com/62806448/232585212-f202f1d6-9857-48a4-89b2-62139a985e79.gif)" > README.md
+      - uses: EndBug/add-and-commit@v9
+        with:
+          commiter_email: me@tfk.name
+          message: 'Voskresenje (⊙︿⊙)'
+          push: true

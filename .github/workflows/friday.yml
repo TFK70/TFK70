@@ -1,0 +1,18 @@
+name: Friday
+on:
+  schedule:
+    - cron:  '0 0 * * FRI'
+  workflow_dispatch:
+
+jobs:
+  update_readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Update README.md
+        run: echo "![Pyatnitsa-mike_ermantraut](https://user-images.githubusercontent.com/62806448/232584169-c2f2fcf3-b505-4e45-9d7f-eb299016b44b.gif)" > README.md
+      - uses: EndBug/add-and-commit@v9
+        with:
+          commiter_email: me@tfk.name
+          message: 'PRtniza ¯\_(ツ)_/¯'
+          push: true

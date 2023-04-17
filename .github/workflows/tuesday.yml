@@ -1,0 +1,18 @@
+name: Tuesday
+on:
+  schedule:
+    - cron:  '0 0 * * TUE'
+  workflow_dispatch:
+
+jobs:
+  update_readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Update README.md
+        run: echo "![Vtornik_Palets](https://user-images.githubusercontent.com/62806448/232582639-4201852f-74c6-40da-85c5-88b9f5e08b0f.gif)" > README.md
+      - uses: EndBug/add-and-commit@v9
+        with:
+          commiter_email: me@tfk.name
+          message: 'Wtornik (ง ◉ _ ◉)ง'
+          push: true

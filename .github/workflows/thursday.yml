@@ -1,0 +1,18 @@
+name: Thursday
+on:
+  schedule:
+    - cron:  '0 0 * * THU'
+  workflow_dispatch:
+
+jobs:
+  update_readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Update README.md
+        run: echo "![Schitverg_Mayka_Ermantrayka_Gif](https://user-images.githubusercontent.com/62806448/232583837-03ad758b-5e03-4de3-bea5-cdab1028cca9.gif)" > README.md
+      - uses: EndBug/add-and-commit@v9
+        with:
+          commiter_email: me@tfk.name
+          message: '4etwerg (งツ)ว'
+          push: true
