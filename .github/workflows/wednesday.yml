@@ -1,0 +1,18 @@
+name: Wednesday
+on:
+  schedule:
+    - cron:  '0 0 * * WED'
+  workflow_dispatch:
+
+jobs:
+  update_readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Update README.md
+        run: echo "![Podyom_Sreda](https://user-images.githubusercontent.com/62806448/232583341-cb8b3bd6-8fc0-4e00-a959-8982b61b3c39.gif)" > README.md
+      - uses: EndBug/add-and-commit@v9
+        with:
+          commiter_email: me@tfk.name
+          message: 'Sreda ¯\(º_o)/¯'
+          push: true
