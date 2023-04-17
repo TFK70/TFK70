@@ -1,1 +1,1 @@
-![Voskresenye_Predznamenovanie_Stradaniy — копия](https://user-images.githubusercontent.com/62806448/232585212-f202f1d6-9857-48a4-89b2-62139a985e79.gif)
+![Schitverg_Mayka_Ermantrayka_Gif](https://user-images.githubusercontent.com/62806448/232583837-03ad758b-5e03-4de3-bea5-cdab1028cca9.gif)
