@@ -1,1 +1,1 @@
-![Subbota_Kayf_Mayk](https://user-images.githubusercontent.com/62806448/232584670-44d222a2-acca-4529-b18e-a3913e6044f4.gif)
+![Ponedelnik_Mayk_Ermntraunt](https://user-images.githubusercontent.com/62806448/232580077-63c279a2-3f2e-4aa9-bb1c-f2f667e52935.gif)
