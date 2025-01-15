@@ -1,1 +1,1 @@
-![Ponedelnik_Mayk_Ermntraunt](https://user-images.githubusercontent.com/62806448/232580077-63c279a2-3f2e-4aa9-bb1c-f2f667e52935.gif)
+![Podyom_Sreda](https://user-images.githubusercontent.com/62806448/232583341-cb8b3bd6-8fc0-4e00-a959-8982b61b3c39.gif)
