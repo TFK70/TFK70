@@ -13,6 +13,6 @@ jobs:
         run: echo "![Schitverg_Mayka_Ermantrayka_Gif](https://user-images.githubusercontent.com/62806448/232583837-03ad758b-5e03-4de3-bea5-cdab1028cca9.gif)" > README.md
       - uses: EndBug/add-and-commit@v9
         with:
-          commiter_email: me@tfk.name
-          message: '4etwerg (งツ)ว'
+          commiter_email: t2mann@yandex.ru
+          message: 'thu'
           push: true
