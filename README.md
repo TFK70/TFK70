@@ -1,1 +1,1 @@
-![Podyom_Sreda](https://user-images.githubusercontent.com/62806448/232583341-cb8b3bd6-8fc0-4e00-a959-8982b61b3c39.gif)
+![Schitverg_Mayka_Ermantrayka_Gif](https://user-images.githubusercontent.com/62806448/232583837-03ad758b-5e03-4de3-bea5-cdab1028cca9.gif)
