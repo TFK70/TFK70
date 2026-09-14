@@ -1,1 +1,1 @@
-![Voskresenye_Predznamenovanie_Stradaniy — копия](https://user-images.githubusercontent.com/62806448/232585212-f202f1d6-9857-48a4-89b2-62139a985e79.gif)
+![Ponedelnik_Mayk_Ermntraunt](https://user-images.githubusercontent.com/62806448/232580077-63c279a2-3f2e-4aa9-bb1c-f2f667e52935.gif)
