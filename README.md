@@ -1,1 +1,1 @@
-![Subbota_Kayf_Mayk](https://user-images.githubusercontent.com/62806448/232584670-44d222a2-acca-4529-b18e-a3913e6044f4.gif)
+![Voskresenye_Predznamenovanie_Stradaniy — копия](https://user-images.githubusercontent.com/62806448/232585212-f202f1d6-9857-48a4-89b2-62139a985e79.gif)
